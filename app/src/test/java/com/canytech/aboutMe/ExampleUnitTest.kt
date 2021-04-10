@@ -1,4 +1,4 @@
-package com.canytech.aboutme
+package com.canytech.aboutMe
 
 import org.junit.Test
 

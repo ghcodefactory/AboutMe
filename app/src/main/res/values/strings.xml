@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">AboutMe</string>
+    <string name="name">John Kenedy Neves</string>
+    <string name="yellow_star">yellow_star</string>
+    <string name="bio">How did it become so popular?
+        \n\nWhat has changed over time and what characteristics have persisted over the decades?
+        \n\nThis APP tells the story of the first and most popular superhero in the world, analyzes the cultural phenomenon that the John Kenedy has become,
+        considering the influences he has been suffering, not only from time, but from all the media he passes through ( comics, radio, television, cinema).
+        \n\nOf course, the iconic figure of Little John, his co-workers Tessa and Jake Olsen, his boss Christy White, as well as archenemy Sweet Lindsey could not be left out of this biography.
+    </string>
+    <string name="what_is_your_nickname">What is you Nickname?</string>
+    <string name="done">DONE</string>
 </resources>
